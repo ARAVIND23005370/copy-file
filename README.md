@@ -27,10 +27,10 @@ Read the contents of the destination file and print it to verify the copy operat
 End the program
 
 ## PROGRAM:
-```
+```PYTHON
 #Program to copy the text from one file to another
-#Developed by ::pravin kumar a
-#Register umber :212223230155
+#Developed by :ARAVIND R
+#Register umber :212223230
 f=open("C:/Users/pravi/OneDrive/Desktop/pk.txt","r")
 a=f.read()
 print(a)
@@ -40,11 +40,7 @@ b.seek(0)
 print(b.read())
 ```
 ### OUTPUT:
-![5c](https://github.com/RAVENPRAVIN/copy-file/assets/146820534/24d7100b-7e66-4f3b-aca2-2dd1c1e8003f)
 
-![5c1](https://github.com/RAVENPRAVIN/copy-file/assets/146820534/2c147fd3-8cce-4323-82d6-3fe4bdcd8eb7)
-
-![5c2](https://github.com/RAVENPRAVIN/copy-file/assets/146820534/e4f2c2f9-7d53-4100-872e-5c34ed17b852)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
