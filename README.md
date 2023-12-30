@@ -40,7 +40,8 @@ b.seek(0)
 print(b.read())
 ```
 ### OUTPUT:
-
+![Screenshot 2023-12-30 204341](https://github.com/ARAVIND23005370/copy-file/assets/148514836/dc7e8d15-2ff7-4d12-bc65-53b33a6679d9)
+![Screenshot 2023-12-30 204618](https://github.com/ARAVIND23005370/copy-file/assets/148514836/93361110-1eb3-4f04-918e-2bcb3a6de50a)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
